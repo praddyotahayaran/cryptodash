@@ -10,15 +10,15 @@ import {
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/cryptodash/",
     element: <Dashboard />,
   },
   {
-    path: "/transaction",
+    path: "/cryptodash/transaction",
     element: <Transaction />,
   },
   {
-    path: "/support",
+    path: "/cryptodash/support",
     element: <Support />
   },
 
