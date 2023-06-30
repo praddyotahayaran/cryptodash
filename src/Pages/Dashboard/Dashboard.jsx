@@ -31,7 +31,7 @@ const Dashboard = () => {
 
         <GridItem colSpan={1}>
           <InfoCard
-            imgUrl="/Visual.svg"
+            imgUrl="Visual.svg"
             tagText="Loan"
             inverted={false}
             text={"Learn more about Loans – Keep your Bitcoin, access it’s value without selling it"} />
@@ -40,7 +40,7 @@ const Dashboard = () => {
         <GridItem colSpan={1}>
           <InfoCard
             inverted={true}
-            imgUrl="/Visual2.svg"
+            imgUrl="Visual2.svg"
             tagText="Contact"
             text={"Learn more about our real estate, mortgage, and  corporate account services"} />
         </GridItem>

@@ -47,7 +47,7 @@ const Price = () => {
                 </Flex>
                 <TabPanels>
                     <TabPanels>
-                        <Image w={"100%"} src='/Graph.svg' mt={"3rem"} />
+                        <Image w={"100%"} src='Graph.svg' mt={"3rem"} />
                         <HStack justify={"space-between"}>
                             {timeStamps.map((timeStamps) => (
                                 <Text key={timeStamps} fontSize={"sm"} color={"black.80"}>
