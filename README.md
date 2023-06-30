@@ -12,8 +12,9 @@ https://praddyotahayaran.github.io/cryptodash/#/
 
 
 ## Screenshots
+![Screenshot 2023-06-30 140046](https://github.com/praddyotahayaran/cryptodash/assets/94554048/3786a535-7641-433b-9311-3eb7facfdadc)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 ## 🚀 About Me
 I'm a passionate frontend developer. For any work regarding frontend you can reach me ⬇️
 
